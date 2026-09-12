@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.DS_Store
+.env.local
+.opensea-key.json
+.git-icloud-backup-*/
+design/
+public/art/
+public/collections/
+public/textures/*.png
+src/* 2.*
